@@ -41,5 +41,3 @@ s.no|name
 ![MithaliRAj](https://hindi.cdn.zeenews.com/hindi/sites/default/files/Mithali-raj-bCCi.jpg#gh-dark-mode-only)
 
 
-![MithaliRAj](https://hindi.cdn.zeenews.com/hindi/sites/default/files/Mithali-raj-bCCi.jpg#gh-light-mode-only)
-
