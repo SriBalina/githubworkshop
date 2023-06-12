@@ -12,6 +12,8 @@
 ***italic and bold types of fonts***
 
 ~~this is strike through~~
+~~*italics strikethrough*~~
+~~**Bold strikethrough**~~
 
 * fuits
   * apple
